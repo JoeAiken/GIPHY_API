@@ -1,0 +1,10 @@
+//  First make sure you are fimiliar with GIPHYs API documentation. You will have to create the correct query url with the correct parameter endpoints (rating, limit, q)
+
+
+    Create an array that contains multiple strings of cartoon character, set it to a variable
+    Create a loop that goes through each string in the array and then creates a button for each string.
+    The user will be able to click the button which will display 10 gifs specified by the button clicked
+    The 10 displayed gifs which are displayed will be still untill the user clicks the image whihc will then change the state to animated
+    Also create a form which will gather user text input of a cartoon and creat and add a new button of that cartoon to the buttons list
+    
+    
